@@ -1,0 +1,18 @@
+h1 {
+	background-color:lightblue;
+	color:red;
+}
+.left {
+	float:left;
+	width:50%;
+	background-color:lavender;
+}
+.right {
+	float:left;
+	width:50%;
+	background-color:salmon;
+}
+img {
+	width:250px;
+	height:250px;
+}
